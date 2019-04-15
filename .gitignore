@@ -1,0 +1,30 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/crime/
+/snow_and_temp_kmeans.png
+/HOMICIDE counted.png
+/THEFT counted.png
+/THEFT regression.png
+/KIDNAPPING counted.png
+/KIDNAPPING tempCount.png
+/ASSAULT counted.png
+/BATTERY regression.png
+/MOTOR VEHICLE THEFT tempCount.png
+/BATTERY tempCount.png
+/KIDNAPPING regression.png
+/MOTOR VEHICLE THEFT regression.png
+/HOMICIDE regression.png
+/BURGLARY regression.png
+/BURGLARY counted.png
+/ASSAULT regression.png
+/BURGLARY tempCount.png
+/weather.csv
+/rain_and_temp_kmeans.png
+/BATTERY counted.png
+/MOTOR VEHICLE THEFT counted.png
+/THEFT tempCount.png
+/HOMICIDE tempCount.png
+/ASSAULT tempCount.png
+/.idea/
